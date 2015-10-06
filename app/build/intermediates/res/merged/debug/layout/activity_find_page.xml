@@ -84,5 +84,13 @@
         android:text="Search"
         android:onClick="searchForAMentor"/>
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="DB contents"
+        android:id="@+id/db_contents"
+        android:layout_below="@+id/SearchResultsButton"
+        android:gravity="center_horizontal"/>
+
 </RelativeLayout>
-<!-- From: file:/Users/emiliedoyle/AndroidStudioProjects/a/DA01_01/app/src/main/res/layout/activity_find_page.xml -->
+<!-- From: file:/C:/Users/Claire/GIT/honors/_project_files/DA01_01/app/src/main/res/layout/activity_find_page.xml -->

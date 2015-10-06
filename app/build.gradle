@@ -22,5 +22,8 @@ android {
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     compile 'com.android.support:appcompat-v7:23.0.1'
-    compile files('lib/volley.jar')
+    //compile files('lib/volley.jar')
+    //compile project(':volley')
+    compile 'com.mcxiaoke.volley:library-aar:1.0.0' // Someone made a mirror of volley that works
+    // (Person copied volley and put it on Maven)
 }

@@ -2,32 +2,39 @@
 <items version="2" >
 
     <item
-        jar="/Users/emiliedoyle/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jar="C:\Users\Claire\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="/Users/emiliedoyle/AndroidStudioProjects/a/DA01_01/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-d1ba95971e7455224992e443d8171d8f686ea8c1.jar" />
+        <dex dex="C:\Users\Claire\GIT\honors\_project_files\DA01_01\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-a4b09f4f8bd8a16437f13919040a94063275e916.jar" />
     </item>
     <item
-        jar="/Users/emiliedoyle/AndroidStudioProjects/a/DA01_01/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/Users/emiliedoyle/AndroidStudioProjects/a/DA01_01/app/build/intermediates/pre-dexed/debug/classes-cd0325bc18ec44148d86db30aa366f995a261a46.jar" />
-    </item>
-    <item
-        jar="/Users/emiliedoyle/AndroidStudioProjects/a/DA01_01/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="/Users/emiliedoyle/AndroidStudioProjects/a/DA01_01/app/build/intermediates/pre-dexed/debug/classes-0496f8ece487577cacdb2c934d64a21b59c557d0.jar" />
-    </item>
-    <item
-        jar="/Users/emiliedoyle/AndroidStudioProjects/a/DA01_01/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jar="C:\Users\Claire\GIT\honors\_project_files\DA01_01\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="/Users/emiliedoyle/AndroidStudioProjects/a/DA01_01/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-b9a76b1abf9debca695290ebfb6f453a2db68c51.jar" />
+        <dex dex="C:\Users\Claire\GIT\honors\_project_files\DA01_01\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-4eed07906f8ef4d757c17a751301fa5b8e0821bd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Claire\GIT\honors\_project_files\DA01_01\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Claire\GIT\honors\_project_files\DA01_01\app\build\intermediates\pre-dexed\debug\classes-fa52c911ab09f650caad2fe8dcdb4e46fc031a1d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Claire\GIT\honors\_project_files\DA01_01\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Claire\GIT\honors\_project_files\DA01_01\app\build\intermediates\pre-dexed\debug\classes-2d7c2f5fc0b9fd983f268b6b7fdb5656b7e1b535.jar" />
+    </item>
+    <item
+        jar="C:\Users\Claire\GIT\honors\_project_files\DA01_01\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="C:\Users\Claire\GIT\honors\_project_files\DA01_01\app\build\intermediates\pre-dexed\debug\classes-a85cbf1caf62b5ab380cbcbcda0a7e9d23aed0f5.jar" />
     </item>
 
 </items>

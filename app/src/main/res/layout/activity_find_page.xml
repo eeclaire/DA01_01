@@ -84,4 +84,12 @@
         android:text="Search"
         android:onClick="searchForAMentor"/>
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="DB contents"
+        android:id="@+id/db_contents"
+        android:layout_below="@+id/SearchResultsButton"
+        android:gravity="center_horizontal"/>
+
 </RelativeLayout>
